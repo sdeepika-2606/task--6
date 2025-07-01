@@ -16,7 +16,7 @@ To understand the components of strong passwords, evaluate their strength, and l
 | G#7pT!Xr@920&Kz | Very Strong | Excellent length and randomness | Billions of years |
 | flaggers_united@2025 | Very Strong | Long passphrase with symbols | Trillions of years |
 
-*(Evaluated using [passwordmeter.com](https://passwordmeter.com) 
+Evaluated using [passwordmeter.com](https://passwordmeter.com) 
 ---
 
 ## ✅ Tips for Creating Strong Passwords
